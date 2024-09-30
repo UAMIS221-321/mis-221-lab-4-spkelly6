@@ -1,0 +1,15 @@
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\bin\Debug\net8.0\mis-221-lab-4-spkelly6.exe
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\bin\Debug\net8.0\mis-221-lab-4-spkelly6.deps.json
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\bin\Debug\net8.0\mis-221-lab-4-spkelly6.runtimeconfig.json
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\bin\Debug\net8.0\mis-221-lab-4-spkelly6.dll
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\bin\Debug\net8.0\mis-221-lab-4-spkelly6.pdb
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\obj\Debug\net8.0\mis-221-lab-4-spkelly6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\obj\Debug\net8.0\mis-221-lab-4-spkelly6.AssemblyInfoInputs.cache
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\obj\Debug\net8.0\mis-221-lab-4-spkelly6.AssemblyInfo.cs
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\obj\Debug\net8.0\mis-221-lab-4-spkelly6.csproj.CoreCompileInputs.cache
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\obj\Debug\net8.0\mis-221-lab-4-spkelly6.sourcelink.json
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\obj\Debug\net8.0\mis-221-lab-4-spkelly6.dll
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\obj\Debug\net8.0\refint\mis-221-lab-4-spkelly6.dll
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\obj\Debug\net8.0\mis-221-lab-4-spkelly6.pdb
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\obj\Debug\net8.0\mis-221-lab-4-spkelly6.genruntimeconfig.cache
+C:\Users\Sean Kelly\OneDrive\Documents\source\Fall2024Repos\labs\mis-221-lab-4-spkelly6\obj\Debug\net8.0\ref\mis-221-lab-4-spkelly6.dll
